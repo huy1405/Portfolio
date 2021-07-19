@@ -282,11 +282,11 @@ $(function(){
 $(function(){
   $('.text').typed({
     strings: [
-      "^700 hi, <span>nvan.ha</span> here"
+      "^700 hi, I'm <span>Huy</span>"
     ],
     typeSpeed: 150,
     backSpeed: 100,
-    loop: true,
+    loop: false,
     showCursor: false
   });
 })
